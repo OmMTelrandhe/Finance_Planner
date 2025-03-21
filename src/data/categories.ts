@@ -35,11 +35,30 @@ const categoryKeywords = {
   '1': [ // Food & Dining
     'food', 'restaurant', 'lunch', 'dinner', 'breakfast', 'cafe', 'coffee', 'grocery', 
     'groceries', 'supermarket', 'takeout', 'meal', 'snack', 'pizza', 'burger', 'bakery',
-    'deli', 'market', 'bar', 'pub', 'drink', 'dining'
+    'deli', 'market', 'bar', 'pub', 'drink', 'dining', 'cuisine', 'recipe', 'cooking', 
+    'fast food', 'cake', 'dessert', 'ice cream', 'sweets', 'chocolate', 'candy', 'soda', 
+    'beverage', 'juice', 'tea', 'alcohol', 'beer', 'coke', 'pepsi', 'sprite', 'fanta', 
+    'cola', 'wine', 'liquor', 'whiskey', 'vodka', 'rum', 'gin', 'beans', 'vegetable', 
+    'apple', 'mango', 'banana', 'orange', 'grapes', 'strawberry', 'blueberry', 'raspberry', 
+    'blackberry', 'kiwi', 'pineapple', 'watermelon', 'melon', 'cantaloupe', 'honeydew', 
+    'papaya', 'peach', 'pear', 'plum', 'apricot', 'cherry', 'avocado', 'tomato', 'potato', 
+    'onion', 'garlic', 'ginger', 'carrot', 'cucumber', 'lettuce', 'spinach', 'kale', 
+    'broccoli', 'cauliflower', 'cabbage', 'brussels sprouts', 'asparagus', 'eggplant', 
+    'zucchini', 'squash', 'bell pepper', 'jalapeno', 'habanero', 'poblano', 'serrano', 
+    'cayenne', 'chili', 'pepper', 'mushroom', 'corn', 'peas', 'lentils', 'chickpeas', 
+    'soybeans', 'tofu', 'tempeh', 'seitan', 'quinoa', 'bulgur', 'barley', 'oats', 'rice', 
+    'pasta', 'noodle', 'bread', 'bagel', 'tortilla', 'biscuit', 'muffin', 'pancake', 
+    'waffle', 'croissant', 'scone', 'donut', 'pie', 'cookie', 'brownie', 'cupcake', 
+    'pudding', 'custard', 'sorbet', 'gelato', 'sherbet', 'frozen yogurt', 'caramel', 
+    'toffee', 'fudge', 'gum', 'lollipop', 'marshmallow', 'jelly', 'jam', 'honey', 'syrup', 
+    'sauce', 'dressing', 'mayonnaise', 'ketchup', 'mustard', 'relish', 'salsa', 'guacamole', 
+    'hummus', 'pesto', 'tapenade', 'tzatziki', 'ranch', 'blue cheese', 'vinaigrette', 
+    'soy sauce', 'teriyaki', 'hoisin', 'sriracha', 'wasabi', 'horseradish'
+
   ],
   '2': [ // Transportation
     'uber', 'lyft', 'taxi', 'cab', 'gas', 'fuel', 'petrol', 'car', 'auto', 'vehicle', 
-    'bus', 'train', 'subway', 'metro', 'transport', 'fare', 'ride', 'commute', 'toll',
+    'bus', 'train','airplane','flight','boat', 'subway', 'metro', 'transport', 'fare', 'ride', 'commute', 'toll',
     'parking', 'bicycle', 'bike', 'scooter', 'rental', 'maintenance', 'repair', 'service'
   ],
   '3': [ // Housing
