@@ -100,7 +100,7 @@ create policy "Users can delete their own transactions"
   using (auth.uid() = user_id);
 ```
 
-### 5. Start the Development Server
+### 5. Start Development Server
 
 ```bash
 npm run dev
