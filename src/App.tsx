@@ -60,7 +60,7 @@ function AppContent() {
             <div className="text-center">
               <h2 className="text-xl font-semibold text-blue-800 mb-2">Welcome to Paisa Controller</h2>
               <p className="text-blue-700 mb-4">
-                Sign in to access all features including AI-powered categorization and cloud sync.
+                Sign in to access all features including Budget Management and cloud sync.
               </p>
               <p className="text-sm text-blue-600">
                 Demo mode: You can try basic features, but data won't be saved.
